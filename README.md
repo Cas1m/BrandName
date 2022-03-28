@@ -1,2 +1,0 @@
-# BrandName
-figma-2
